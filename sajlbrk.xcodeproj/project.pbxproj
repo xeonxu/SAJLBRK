@@ -406,7 +406,7 @@
 					"-pagezero_size",
 					0x16000,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-Ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -432,7 +432,7 @@
 					"-pagezero_size",
 					0x16000,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-Ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
