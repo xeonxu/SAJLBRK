@@ -391,7 +391,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FFVX2865U8;
+				DEVELOPMENT_TEAM = 26BH824HNV;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = topanga/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -406,7 +406,7 @@
 					"-pagezero_size",
 					0x16000,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-Ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.L1ghtSn0w.async-wake-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -417,7 +417,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FFVX2865U8;
+				DEVELOPMENT_TEAM = 26BH824HNV;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = topanga/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -432,7 +432,7 @@
 					"-pagezero_size",
 					0x16000,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Sn0w.async-wake-Ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.L1ghtSn0w.async-wake-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
